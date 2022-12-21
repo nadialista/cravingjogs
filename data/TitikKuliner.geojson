@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"name": "TitikKuliner",
+"features": [
+{ "type": "Feature", "properties": { "FID_": 1.0, "Nama_Tempa": "Jejamuran", "Jenis_Kuli": "Restoran Vegan", "Kecamatan": "Sleman", "X": 110.364299, "Y": -7.703964 }, "geometry": { "type": "Point", "coordinates": [ 110.364298985028995, -7.70396386339819 ] } },
+{ "type": "Feature", "properties": { "FID_": 2.0, "Nama_Tempa": "Fransis Pizza", "Jenis_Kuli": "Restoran Italia", "Kecamatan": "Ngaglik", "X": 110.421956, "Y": -7.693503 }, "geometry": { "type": "Point", "coordinates": [ 110.421956245920995, -7.69350268043519 ] } },
+{ "type": "Feature", "properties": { "FID_": 3.0, "Nama_Tempa": "Kopi Gajah", "Jenis_Kuli": "Kedai Kopi", "Kecamatan": "Ngaglik", "X": 110.403334, "Y": -7.723897 }, "geometry": { "type": "Point", "coordinates": [ 110.403333760432005, -7.72389668706721 ] } },
+{ "type": "Feature", "properties": { "FID_": 4.0, "Nama_Tempa": "Waroeng Raminten", "Jenis_Kuli": "Restoran Tradisional", "Kecamatan": "Ngemplak", "X": 110.408402, "Y": -7.675096 }, "geometry": { "type": "Point", "coordinates": [ 110.408401674735003, -7.67509552459511 ] } },
+{ "type": "Feature", "properties": { "FID_": 5.0, "Nama_Tempa": "Filosofi Kopi", "Jenis_Kuli": "Kedai Kopi", "Kecamatan": "Ngaglik", "X": 110.374408, "Y": -7.726736 }, "geometry": { "type": "Point", "coordinates": [ 110.374407513514001, -7.72673573202669 ] } },
+{ "type": "Feature", "properties": { "FID_": 6.0, "Nama_Tempa": "Joglo Yulia", "Jenis_Kuli": "Restoran Tradisional", "Kecamatan": "Tempel", "X": 110.288218, "Y": -7.703032 }, "geometry": { "type": "Point", "coordinates": [ 110.288218057501993, -7.70303156637594 ] } },
+{ "type": "Feature", "properties": { "FID_": 7.0, "Nama_Tempa": "Warung Eyup", "Jenis_Kuli": "Restoran Tradisional", "Kecamatan": "Cangkringan", "X": 110.441633, "Y": -7.642429 }, "geometry": { "type": "Point", "coordinates": [ 110.441632633553994, -7.64242922993058 ] } },
+{ "type": "Feature", "properties": { "FID_": 8.0, "Nama_Tempa": "Bale Reren", "Jenis_Kuli": "Restoran Tradisional", "Kecamatan": "Kalasan", "X": 110.45728, "Y": -7.731353 }, "geometry": { "type": "Point", "coordinates": [ 110.457280089758996, -7.73135280435221 ] } },
+{ "type": "Feature", "properties": { "FID_": 9.0, "Nama_Tempa": "Casario", "Jenis_Kuli": "Kafe", "Kecamatan": "Ngaglik", "X": 110.395065, "Y": -7.696665 }, "geometry": { "type": "Point", "coordinates": [ 110.395065459272004, -7.69666522367225 ] } },
+{ "type": "Feature", "properties": { "FID_": 10.0, "Nama_Tempa": "Omah nDaren", "Jenis_Kuli": "Restoran", "Kecamatan": "Turi", "X": 110.384167, "Y": -7.658469 }, "geometry": { "type": "Point", "coordinates": [ 110.384167121380997, -7.65846943459636 ] } },
+{ "type": "Feature", "properties": { "FID_": 11.0, "Nama_Tempa": "Liema", "Jenis_Kuli": "Kafe", "Kecamatan": "Ngemplak", "X": 110.460711, "Y": -7.691564 }, "geometry": { "type": "Point", "coordinates": [ 110.460711411082002, -7.69156366327749 ] } },
+{ "type": "Feature", "properties": { "FID_": 12.0, "Nama_Tempa": "Bale Merapi", "Jenis_Kuli": "Restoran Tradisional", "Kecamatan": "Ngemplak", "X": 110.424644, "Y": -7.719428 }, "geometry": { "type": "Point", "coordinates": [ 110.424643822692005, -7.71942846376638 ] } },
+{ "type": "Feature", "properties": { "FID_": 13.0, "Nama_Tempa": "Kopi Klothok", "Jenis_Kuli": "Restoran Tradisional", "Kecamatan": "Pakem", "X": 110.419131, "Y": -7.670508 }, "geometry": { "type": "Point", "coordinates": [ 110.419131113141006, -7.67050826561099 ] } },
+{ "type": "Feature", "properties": { "FID_": 14.0, "Nama_Tempa": "Pawon Mbah Gito", "Jenis_Kuli": "Restoran Tradisional", "Kecamatan": "Ngaglik", "X": 110.418355, "Y": -7.708404 }, "geometry": { "type": "Point", "coordinates": [ 110.418355202246005, -7.70840352756267 ] } },
+{ "type": "Feature", "properties": { "FID_": 15.0, "Nama_Tempa": "Sop Gajah Seyegan", "Jenis_Kuli": "Restoran Tradisional", "Kecamatan": "Seyegan", "X": 110.308606, "Y": -7.739424 }, "geometry": { "type": "Point", "coordinates": [ 110.308606018332995, -7.73942388204855 ] } }
+]
+}
